@@ -1,0 +1,22 @@
+Algorithms :
+- worst case (Big O)
+- average case (theta)
+- best case (omega)
+########################
+O(n) for loop , n => count
+O(n^2) nested for loop
+O(n) constant one operation
+O(log n) like binary search
+########################
+Array:
+1- insert and remove from the end  O(1) : push and pop
+2- insert and remove from the start O(n) : shift and unshift
+3- access from the array O(1)
+4- search O(n)
+########################
+Object:
+- insert , remove , access and search => O(1)
+- Object.keys() => O(n)
+- Object.values() => O(n)
+- Object.entries() => O(n)
+########################
